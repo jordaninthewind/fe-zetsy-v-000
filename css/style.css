@@ -34,7 +34,7 @@ h2 {
 	border: 7px rgb(204,204,204);
 }
 
-img:hover {
+.logo:hover {
 	border: 7px rgb(255,0,0);
 }
 
