@@ -38,7 +38,7 @@ img {
 }
 
  div.logo img:hover {
-	border: 10px solid red;
+	border: 10px solid grey;
 }
 
 div.trademark {
