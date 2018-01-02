@@ -38,7 +38,7 @@ img {
 }
 
 img.press:hover {
-	border: 10px solid;
+	border: 10px solid red;
 }
 
 div.trademark {
