@@ -24,6 +24,10 @@ body {
 
 /* Write all remaining styles here */
 
+h2 {
+	color: rgb(158, 170, 166);
+}
+
 .logo {
 	display: inline-block;
 	border: 7px rgb(204,204,204);
