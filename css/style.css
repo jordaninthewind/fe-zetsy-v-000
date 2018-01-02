@@ -37,7 +37,7 @@ img {
 	border: 5px solid rgb(158, 170, 166);
 }
 
- img.logo:hover {
+ div.logo:hover {
 	border: 10px solid red;
 }
 
