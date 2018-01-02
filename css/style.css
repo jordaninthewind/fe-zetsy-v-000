@@ -39,7 +39,7 @@ img {
 }
 
 img.press:hover {
-	border: 10px;
+	border: 10px solid;
 }
 
 div.trademark {
