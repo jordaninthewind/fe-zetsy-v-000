@@ -7,6 +7,12 @@ h1 {
 	font-size: 4em;
 }
 
+h1:after {
+	font-family: 'Libre Baskerville', serif;
+	color: rgb(158, 170, 166);
+	font-size: 4em;
+}
+
 h1:hover {
 	color: grey;
 }
