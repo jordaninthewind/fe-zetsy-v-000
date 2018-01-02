@@ -30,12 +30,16 @@ h2 {
 }
 
 .logo {
-	display: inline;;
+	display: inline;
 	border: 7px rgb(204,204,204);
 }
 
 img {
 	border: 5px solid rgb(158, 170, 166);
+}
+
+img.press:hover {
+	border: 10px;
 }
 
 div.trademark {
