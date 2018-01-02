@@ -24,7 +24,9 @@ body {
 
 /* Write all remaining styles here */
 
-
+img {
+	border: 3px solid rgb(158, 170, 166);
+}
 
 div.trademark {
 	text-align: right;
