@@ -34,6 +34,10 @@ h2 {
 	border: 7px rgb(204,204,204);
 }
 
+img.logo:hover {
+	border: 7px rgb(255,0,0)
+}
+
 img {
 	border: 5px solid rgb(158, 170, 166);
 }
