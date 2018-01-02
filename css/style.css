@@ -24,6 +24,10 @@ body {
 
 /* Write all remaining styles here */
 
+.logo {
+	display: inline;
+}
+
 img {
 	border: 7px solid rgb(158, 170, 166);
 }
