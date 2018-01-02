@@ -25,7 +25,7 @@ body {
 /* Write all remaining styles here */
 
 .logo {
-	display: inline;
+	display: block;
 }
 
 img {
