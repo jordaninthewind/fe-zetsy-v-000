@@ -30,7 +30,7 @@ h2 {
 }
 
 .logo {
-	display: block;
+	display: inline;;
 	border: 7px rgb(204,204,204);
 }
 
